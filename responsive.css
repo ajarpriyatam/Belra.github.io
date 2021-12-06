@@ -1,0 +1,440 @@
+@media (max-width:991px){
+    html{
+        font-size: 48%;
+    }
+    .container header .block{
+        left: 55rem;
+    }
+    .container .box26{
+        padding: 0rem 28rem 0rem 28rem;
+        top: 61.9rem;
+    }
+    .container header .logo a img{
+        width: 15rem;
+        height: 5rem;
+    }
+    .section,.main{
+        padding: 18rem 11rem 8rem 11rem;
+    }
+    .section2 .box12{
+        flex-direction: column;
+    }
+    .btn13{
+        margin-bottom: 5rem;
+    }
+    .section2 .box12 img{
+        width: 55rem;
+    }
+    .section2 .box12{
+        padding-right: 10rem;
+        padding-left: 10rem;
+    }
+    .section3 .box15{
+        padding: 4rem;
+    }
+    .section3 .box15 .box16 p{
+        font-size: 3rem;
+        padding: 1rem 10rem 1rem 10rem;
+    }
+    .section3 .box15 .box16 .pbox16{
+        font-size: 2rem ;
+    }
+    .box23{
+        flex-direction: column;
+    }
+    .icon .icons{
+        width: 10rem;
+        height: 10rem;
+        margin-top: 7rem;
+        padding-top: 7%;
+        padding-left: 7%;
+    }
+    .icon .icons i{
+        font-size: 2.5rem;
+    }
+    .cont .p1box21{
+        font-size: 1.8rem;
+    }
+    .cont .p2box21{
+        font-size: 4rem;
+    }
+    .cont .p3box21{
+        font-size: 2rem;
+    }
+    .section4 .box17 .box19 .box21 .box23 .cont{
+        padding-right: 9rem;
+    }
+    footer .foot{
+        flex-direction: column;
+    }
+    footer .foot .logo{
+        margin-right: 10rem;
+    }
+    footer .foot .footer1{
+        margin-right: 21rem;
+    }
+    footer .foot .footer2{
+        margin-right: 22rem;
+    }
+    footer .foot  p{
+        font-size: 1.9rem;
+    }
+    footer .foot div a{
+        font-size: 2.1rem;
+    }
+    footer .foot .footer3 .haed3{
+        font-size: 2.1rem;
+        margin-bottom: 1.9rem;
+    }
+    .up{
+        left: 90%;
+    }
+    .map,.data{
+        width:95%;
+        padding-bottom: 5rem;
+        padding-left: 5rem;
+    }
+    .data .box30{
+        flex-direction: column;
+    }
+    .data .box30 .box31 #text{
+        width: 100%;
+        height: 18rem;
+    }
+    .data .box30 .box31 #name,.data .box30 .box31 #email{
+        width: 50rem;
+        height: 6rem;
+    }
+    .data .box30 .box31 #sub{
+        width: 100%;
+        height: 6rem;
+    }
+    .data .box30 .box33{
+        margin-left: 0rem;
+        margin-top: 5rem;
+    }
+    .data .box30 .box33 .info a{
+        color: white;
+        font-size: 1.8rem;
+    }
+    .data .box30 .box33 .info p{
+        color: white;
+        font-size: 1.5rem;
+        padding-top: 0.4rem;
+    }
+
+}
+@media(max-width:830px) {
+    .container header .block{
+        left: 40rem;
+
+    }
+    .container .box26{
+        padding: 0rem 16rem 0rem 16rem;
+    }
+    .container .content{
+        padding-left: 11rem;
+    }
+    .container .box{
+        left: 20rem;
+    }
+    section{
+        padding: 5rem 5rem 5rem 5rem;
+    }
+    .section{
+        padding: 5rem 5rem 5rem 5rem;
+    }
+    section,.section,.main{
+        padding: 5rem 1.5rem 5rem 1.5rem;
+    }
+    .box11{
+        width:100%;
+    }
+    .section4 .box17 .box19 .box21 .box23 img{
+        width: 12rem;
+        height: 12rem;
+    }
+    .icon .icons{
+        width: 10rem;
+        height: 10rem;
+        margin-top: 6rem;
+        padding-top: 7%;
+        padding-left: 7%;
+    }
+
+}
+@media (max-width:768px){
+    html{
+        font-size: 50%;
+    }
+    .container header .block{
+        left: 32rem;
+    }
+    .container .box26{
+        padding: 0rem 10rem 0rem 10rem;
+        top: 57.9rem;
+
+    }
+    .container .content{
+        padding-left: 5rem;
+        width: 36rem;
+    }
+    section,.section,.main{
+        padding: 5rem 1.5rem 5rem 1.5rem;
+    }
+    section .box3{
+        padding: 4rem 5rem 5rem 5rem;
+    }
+    section .box3 .box4{
+        margin-right: 3rem;
+    }
+    .section .box6{
+        padding-top: 3rem;
+        flex-direction: column;
+    }
+    .section .box7,.section .box8,.section .box9{
+        display: flex;
+        padding-left: 10rem;
+        padding-right: 10rem;
+        margin-bottom: 5rem;
+    }
+    .section .box6 .img1 img{
+        width: 40rem;
+        height: 30rem;
+    }
+    .section .box6 h2{
+        position: relative;
+        top: 5rem;
+        left: 3.8rem;
+    }
+    .section .box6 p{
+        position: relative;
+        top: 15rem;
+        left: -15rem;
+    }
+    
+    .box11 .pbox11{
+        font-size: 1.5rem;
+    }
+    .section1 .box10 h2{
+        font-size: 7rem;
+    }
+    .section1 img{
+        width: 100%;
+        margin-top: -1.5rem;
+    }
+    .section2 .box12 img{
+        width: 47rem;
+    }
+    .section2 .box12{
+        padding-right: 8rem;
+        padding-left: 8rem;
+    }
+    .section4 .box17 .box19 .box21{
+        flex-direction: column;
+    }
+    .icon .icons{
+        width: 10rem;
+        height: 10rem;
+        margin-top: 5rem;
+        padding-top: 5%;
+        padding-left: 5.5%;
+    }
+    .section4 .box17 .box19 .box21 .box23 .cont{
+        margin-left: 0rem;
+    }
+    .section4 .box17 .box19 .box21 .box23 .icon{
+        margin-left: 0rem;
+    }
+    .icon .icons{
+        width: 10rem;
+        height: 10rem;
+        margin-top: 5rem;
+        padding-top: 6%;
+        padding-left: 6.5%;
+    }
+    footer .foot .footer2{
+        margin-right: 0rem;
+    }
+
+
+}
+@media (max-width:700px){
+    .container header .block {
+        left: 20rem;
+    }
+    .container .box26 {
+        padding: 0rem 2rem 0rem 2rem;
+    }
+    nav{
+        height: 120vh;
+    }
+}
+@media (max-width:600px){
+    .container header .block{
+        left :12rem;
+    }
+    .container header{
+        padding: 2rem 2rem 0rem 2rem;
+    }
+    .container .box26{
+        padding: 0rem 20rem 0rem 27.3rem;
+    }
+    .container .box .box2{
+        display: none;
+    }
+    .container .box26 .box{
+        width: 34rem;
+    } 
+    section{
+        padding: 5rem 2rem 5rem 8rem;
+    }
+    section .box3{
+        flex-direction: column;
+    }
+    section .box3 .box5{
+        width: 40rem;
+    }
+    .section .box7,.section .box8,.section .box9{
+        padding-left: 2rem;
+        flex-direction: column;
+        padding-right: 2rem;
+    }
+    .section .box6 .img1 img{
+        width: 40rem;
+        height: 35rem;
+    }
+    .section .box6 h2{
+        top: 0rem;
+        left: 0rem;
+    }
+    .section .box6 p{
+        top: 0rem;
+        left: 0rem;
+    }
+    .section3 .box15{
+        padding: 0rem;
+    }
+    .section3 .box15 .box16 p{
+        font-size: 1.8rem;
+        color: #c1c1c1;
+        text-align: center;
+        padding: 1rem 3rem 1rem 3rem;
+    }
+    footer .foot .box24{
+        flex-direction: column;
+    }
+}
+@media (max-width:480px){
+    html{
+        font-size: 50%;
+    }
+    .container header .block{
+        left :3rem;
+    }
+    .container .box26{
+        padding: 0rem 13rem 0rem 13rem;
+        top: 52rem;
+    }
+    .container header{
+        padding: 2rem 1rem 0rem 1rem;
+        /* flex-direction: column; */
+    }
+    .container header .logo{
+        padding: 0 2rem 2rem  0rem;
+    }
+    .container .box{ 
+        left: 20rem;
+        width: 32rem;
+    }
+    section{
+        padding: 5rem 2rem 5rem 2rem;
+    }
+    .box3{
+        padding: 4rem 1rem 5rem 1rem;
+    }
+    .section .box7,.section .box8,.section .box9{
+        padding-left: 5rem;
+    }
+    .section1 .box10 h2{
+        font-size: 4rem;
+    }
+    .section1 img{
+        width: 100%;
+        margin-top: -1rem;
+    }
+    .box11{
+        /* width:100%; */
+    }
+    .section2 .box12 img{
+        width: 40rem;
+    }
+    .section2 .box12{
+        padding-right: 5rem;
+        padding-left: 5rem;
+    }
+    .cont .p1box21{
+        font-size: 1rem;
+    }
+    .cont .p2box21{
+        font-size: 2.5rem;
+    }
+    .cont .p3box21{
+        font-size: 1.2rem;
+    }
+    .section4 .box17 .box19 .box21 .box23 .cont {
+        padding-right: 0rem;
+    }
+    .icon .icons{
+        width: 9rem;
+        height: 9rem;
+        margin-top: 3rem;
+        padding-top: 6.5%;
+        padding-left: 6.5%;
+    }
+    footer .foot .box25{
+        flex-direction: column;
+    }
+    
+}
+@media (max-width:450px){
+    html{
+        font-size: 51%;
+    }
+    body{
+        width: 109%;
+    }
+    .container header{
+        padding: 2rem 2rem 0rem 2rem;
+    }
+    .container header .block{
+        display:none;
+    }
+    .blocked{
+        display: flex;
+        opacity: 1;
+    }
+    .container header .logo{
+        padding: 0 11rem 2rem  0rem;
+    }
+    .container .box{ 
+        left: 5rem;
+        width: 36rem;
+    }
+    section{
+        padding: 5rem 2rem 5rem 0rem;
+    }
+}
+@media(max-width:420px){
+    body{
+        width: 110%;
+    }
+    .container .box26 {
+        padding: 0rem 0rem 0rem 22rem;
+    }
+}
+@media(max-width:400px){
+    body{
+        width: 117%;
+    }
+}
