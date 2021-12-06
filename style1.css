@@ -1,0 +1,15 @@
+.container{
+    min-height: 70vh;
+    /* display: flex; */
+    align-items: center;
+    background:url(bg.png) no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-position: center;
+}
+.section2 .box14{
+    padding: 0rem 0rem 0rem 0rem;
+} 
+.box11{
+    margin-bottom: 5rem;
+}
